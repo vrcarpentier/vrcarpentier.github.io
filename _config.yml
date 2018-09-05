@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Vince Carpentier
+twitter_username: vrc86
+name: Vince Carpentier
 
 # Build settings
 markdown: kramdown
@@ -9,102 +9,68 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/vrcarpentier
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: www.linkedin.com/in/vincent-carpentier-24778739
 
 #Any buzzword skills you want to include
 skills:
- - Groovy
- - Spring MVC
- - Spring Boot
- - Gradle
- - Java
- - JPA
+ - JavaScript
+ - ColdFusion
+ - CSS
+ - HTML
  - SQL
- - REST
- - Tech Architecture
-
-#Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
+ - Python
 
 #Work experience is required
 roles:
- - title: Senior Engineer
-   start: 2016
+ - title: Specialist-System Engineer
+   start: Feb 2018
    end: Ongoing
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+   employer: AT&T
+   description: Web developer.
+ - title: Sr. Specialist-Network Support
+   start: Sep 2018
+   end: Feb 2018
+   employer: AT&T
+   description: Web developer.
+ - title: Specialist-Network Support
+   start: May 2014
+   end: Sep 2016
+   employer: AT&T
+   description: Incident Manager, Mobility - Global Technology Operations Center. </br> As a member of the GTOC Mobility Console, I managed the response and recovery actions during customer impacting network outages. When an outage occurs GTOC Mobility Incident Managers correlate network events among other AT&T organizations, engage the appropriate resources and teams in order to restore service, and prepare incident summary reports.
+ - title: Specialist-Network Support
+   start: Sep 2012
+   end: May 2014
+   employer: AT&T
+   description: As a member of the GNOC Communications Console, I monitored Twitter, Facebook, blogs and any other social media outlets for any issues concerning AT&T’s network, services or customers. In addition, the GNCC works with other network teams to provide information concerning the customer experience and relate customer issues to network incidents. GNCC Managers proactively monitor the external environment for any conditions that could cause an incident in the AT&T Network. If necessary, GNCC Managers will distribute the appropriate notifications regarding these conditions to help network teams prepare for possible service impact. This valuable communication process helps minimize service impact and ensure a speedy resolution. 
+ - title: Retail Sales Consultant
+   start: Aug 2009
+   end: Sep 2012
+   employer: AT&T
+   description: Sales and customer service.
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Bachelor of Arts
+   date: 2015
+   subject: Political Science 
+   school: Penn State World Campus
 
 #This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+Udacity:
    courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
-
-#List of interesting Github repo/projects to include - optional
-github:
- - robhinds/learning-neural-networks
- - robhinds/akka-http-rest-api-sample
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
-
-#Stackoverflow flair is optional
-stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
-
-#Mobile apps section is optional
-apps:
- - name: Chuck the Quiz
-   platform: Android
-   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
-   description: A basic early Android app (open sourced)
+    - title: Intro to Programming Nanodegree
+      link: https://www.udacity.com/course/intro-to-programming-nanodegree--nd000
+      date: September 2016
+    - title: Front-End Web Developer Nanodegree
+      link: https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001
+      date: Feb 2017
+    - title: Full Stack Web Developer Nanodegree
+      link: https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004
+      date: June 2018
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>). <br/><br/>
-   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although current role uses ColdFusion for server side web stack). I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+ Hi
